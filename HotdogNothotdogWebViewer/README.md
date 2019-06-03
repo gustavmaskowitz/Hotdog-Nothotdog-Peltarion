@@ -1,0 +1,1 @@
+This code belongs to Peltarion, but since it's open for the world to see at http://bit.ly/peltarion-mnist-demo I don't really worry about including it here..
